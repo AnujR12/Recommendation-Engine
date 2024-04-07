@@ -1,5 +1,7 @@
 Recommendation Engine using Netflix Dataset
+
 Tools Used : Python, Scikit-learn ,Matplotlib 
+
 • Developed a Recommendation Engine utilizing Netflix's collaborative filtering algorithm to 
 analyze user behavior and preferences, generating personalized recommendations for movies 
 or shows.
